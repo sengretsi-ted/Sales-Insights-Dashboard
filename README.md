@@ -1,4 +1,6 @@
 # Sales Insights Dashboard with Power BI
+![image](https://github.com/user-attachments/assets/052d0aae-93d7-4dee-86b5-77f74879ba16)
+
 
 ## Project Background
 An Indian Business wants insights about its Sales across the country. The business has sales data from 2017 to 2020. This project analyses this data to uncover critical insights to improve sales.
